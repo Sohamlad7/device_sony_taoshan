@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "SlimRoms/device_sony_common",
+    "target_path": "device/sony/common",
+    "branch": "lp5.1"
+  },
+  {
+    "repository": "Sohamlad7/kernel_sony_msm8930",
+    "target_path": "kernel/sony/msm8930",
+    "branch": "lp5.1"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_sony_DASH",
+    "target_path": "hardware/sony/DASH",
+    "branch": "cm-12.1"
+  }
+]
